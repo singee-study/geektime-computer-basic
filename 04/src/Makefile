@@ -14,4 +14,4 @@ image:
 
 .PHONY: clean
 clean:
-	rm -f wave wave.vcd alu.dot	
+	rm -f wave wave.vcd alu.dot alu.png
